@@ -1,2 +1,2 @@
 # Veri-analizi
-Yaptığım basit veri analizleri.
+Yaptığım veri analizleri.
