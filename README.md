@@ -1,2 +1,2 @@
 # Veri-analizi
-Yaptığım veri analizleri.
+Kaggle'dan indirdiğim Spotify_1Million_Tracks verisetinin analizi.
